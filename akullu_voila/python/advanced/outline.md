@@ -1,0 +1,20 @@
+# Advanced
+- Classes
+- Inheritance
+- Variable Scope
+    - Global
+    - Local
+    - global keyword
+- Formating Text
+    - placeholders (format() method)
+    - using indexes
+    - using named indexes
+    - Literal string interpolation
+- Errors in python
+    - try...except
+    - else statement
+    - finally statement
+    - Throw(raise) and exception
+    - kinds of exceptions
+- Iterator (iter())
+- User Input
