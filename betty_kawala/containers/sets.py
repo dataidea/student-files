@@ -36,8 +36,6 @@ pets = {'dog', 'cat', 'dog', 'fish', 'horse'}
 print(pets)
 
 
-
-
 # Assignements
 # 1. How to drop elements using pop()
 # 2. How to find the number of elements in a set
