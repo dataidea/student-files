@@ -1,0 +1,1 @@
+print('x is less than 10')
